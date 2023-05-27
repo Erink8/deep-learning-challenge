@@ -44,3 +44,9 @@ I then compiled and trained the model and evaluted the model's functionality usi
 <img width="662" alt="Screenshot 2023-05-27 at 11 16 56 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/89de3f7a-667d-4506-82b8-bbcdd18623f0">
 
 ### Step 3: Optimize the Model
+The ask is a 75% accuracy for our neural network model in this challenge in approaching this I made 3 attempts to achieve this result.
+## Optimization 1
+  - I made edits to my binning for 'APPLICATION_TYPE', 
+  <img width="861" alt="Screenshot 2023-05-27 at 11 21 51 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/8b7ef5c0-fc01-4114-8e7f-2accfaf39b34">
+  <img width="609" alt="Screenshot 2023-05-27 at 11 22 09 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/20b894a0-d524-4784-bd61-2f5fe96ee9ee">
+
