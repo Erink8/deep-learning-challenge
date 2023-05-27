@@ -60,4 +60,8 @@ The ask is a 75% accuracy for our neural network model in this challenge in appr
   <img width="646" alt="Screenshot 2023-05-27 at 11 33 59 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/4ee8d824-eeef-4514-925c-acc153b5e433">
   <img width="673" alt="Screenshot 2023-05-27 at 11 36 23 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/73d970e5-d3f0-49f6-9828-30bdf006ca2e">
 
+### Summary
+Based on my findings, I recommend further exploration as optimization could be better fit to increase accuracy. From increasing layers, neaurons, and epochs - much more fine tuning could be done to create a model that is accurate with a score over 75% for Alphabet Soup to base their selection decisions on.
+
+
 
