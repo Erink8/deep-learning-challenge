@@ -58,5 +58,6 @@ The ask is a 75% accuracy for our neural network model in this challenge in appr
 ## Optimization 3
   - Building off the framework of Optimization 2, in my final attempt I added a 4th hidden layer node and decreased the neurons sequentially
   <img width="646" alt="Screenshot 2023-05-27 at 11 33 59 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/4ee8d824-eeef-4514-925c-acc153b5e433">
-  <img width="673" alt="Screenshot 2023-05-27 at 11 34 32 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/071fc229-5df5-421f-87f4-58c6e0cec227">
+  <img width="673" alt="Screenshot 2023-05-27 at 11 36 23 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/73d970e5-d3f0-49f6-9828-30bdf006ca2e">
+
 
