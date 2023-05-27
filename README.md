@@ -16,3 +16,7 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - SPECIAL_CONSIDERATIONS—Special considerations for application
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
+
+### Step 1: Preprocessing the Data
+### Step 2: Compile, Train, and Evaluate the Model
+### Step 3: Optimize the Model
