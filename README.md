@@ -44,9 +44,19 @@ I then compiled and trained the model and evaluted the model's functionality usi
 <img width="662" alt="Screenshot 2023-05-27 at 11 16 56 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/89de3f7a-667d-4506-82b8-bbcdd18623f0">
 
 ### Step 3: Optimize the Model
-The ask is a 75% accuracy for our neural network model in this challenge in approaching this I made 3 attempts to achieve this result.
+The ask is a 75% accuracy for our neural network model in this challenge in approaching this I made 3 attempts and was unable to achieve this result.
 ## Optimization 1
-  - I made edits to my binning for 'APPLICATION_TYPE', 
+  - I made edits to my binning for 'APPLICATION_TYPE' in exploration to see if changes at this level effected results, minimal loss in accuracy was observed
   <img width="861" alt="Screenshot 2023-05-27 at 11 21 51 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/8b7ef5c0-fc01-4114-8e7f-2accfaf39b34">
   <img width="609" alt="Screenshot 2023-05-27 at 11 22 09 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/20b894a0-d524-4784-bd61-2f5fe96ee9ee">
+ 
+## Optimization 2
+  - I left my binning for 'APPLICATION_TYPE' & 'CLASSIFICATION' the same as Optimization attempt 1. I added a third hidden layer node whilde decreasing       nuerons from each node and changed my activation models for non-linear results
+  <img width="793" alt="Screenshot 2023-05-27 at 11 25 30 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/335675d6-b7ea-403b-8650-e87f8ebaf2d3">
+  <img width="543" alt="Screenshot 2023-05-27 at 11 30 34 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/1b3c3ac3-0bc2-41cf-9fd3-f4455c2c5b25">
+
+## Optimization 3
+  - Building off the framework of Optimization 2, in my final attempt I added a 4th hidden layer node and decreased the neurons sequentially
+  <img width="646" alt="Screenshot 2023-05-27 at 11 33 59 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/4ee8d824-eeef-4514-925c-acc153b5e433">
+  <img width="673" alt="Screenshot 2023-05-27 at 11 34 32 AM" src="https://github.com/Erink8/deep-learning-challenge/assets/119360371/071fc229-5df5-421f-87f4-58c6e0cec227">
 
